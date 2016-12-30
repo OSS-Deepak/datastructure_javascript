@@ -1,1 +1,1 @@
-This is javascript implementations of comman datastructures like linkedlist,stacks,trees etc 
+This is javascript(Node.js) implementations of comman datastructures like linkedlist,stacks,trees etc 
